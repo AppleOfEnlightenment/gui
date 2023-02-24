@@ -1,5 +1,5 @@
-import type { NFTInfo } from '@chia-network/api';
-import { useGetCatListQuery } from '@chia-network/api-react';
+import type { NFTInfo } from '@AppleOfEnlightenment/api';
+import { useGetCatListQuery } from '@AppleOfEnlightenment/api-react';
 import {
   CopyToClipboard,
   Flex,
@@ -13,7 +13,7 @@ import {
   mojoToChiaLocaleString,
   mojoToCAT,
   mojoToCATLocaleString,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { Box, Typography } from '@mui/material';
 import React, { useMemo } from 'react';

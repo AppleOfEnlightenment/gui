@@ -1,7 +1,7 @@
 import path from 'path';
 
-import { OfferTradeRecord } from '@chia-network/api';
-import { Flex, useColorModeValue } from '@chia-network/core';
+import { OfferTradeRecord } from '@AppleOfEnlightenment/api';
+import { Flex, useColorModeValue } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { Typography } from '@mui/material';
 import moment from 'moment';

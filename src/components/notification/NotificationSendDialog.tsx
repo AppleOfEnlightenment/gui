@@ -1,5 +1,5 @@
-import { toBech32m, fromBech32m } from '@chia-network/api';
-import { useGetCurrentAddressQuery, useGetNFTInfoQuery, useSendNotificationsMutation } from '@chia-network/api-react';
+import { toBech32m, fromBech32m } from '@AppleOfEnlightenment/api';
+import { useGetCurrentAddressQuery, useGetNFTInfoQuery, useSendNotificationsMutation } from '@AppleOfEnlightenment/api-react';
 import {
   AlertDialog,
   Amount,
@@ -13,7 +13,7 @@ import {
   chiaToMojo,
   useCurrencyCode,
   useOpenDialog,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { Trans, t } from '@lingui/macro';
 import {
   Box,

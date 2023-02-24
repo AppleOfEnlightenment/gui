@@ -1,5 +1,5 @@
-import { ServiceName } from '@chia-network/api';
-import { Mode } from '@chia-network/core';
+import { ServiceName } from '@AppleOfEnlightenment/api';
+import { Mode } from '@AppleOfEnlightenment/core';
 
 export default {
   [Mode.WALLET]: [ServiceName.WALLET],

@@ -1,5 +1,5 @@
-import { OfferTradeRecord } from '@chia-network/api';
-import { useGetOffersCountQuery, useGetAllOffersQuery } from '@chia-network/api-react';
+import { OfferTradeRecord } from '@AppleOfEnlightenment/api';
+import { useGetOffersCountQuery, useGetAllOffersQuery } from '@AppleOfEnlightenment/api-react';
 import { useState } from 'react';
 
 export default function useWalletOffers(

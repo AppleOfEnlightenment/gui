@@ -1,5 +1,5 @@
-import { toBech32m } from '@chia-network/api';
-import { useGetBlockQuery, useGetBlockRecordQuery } from '@chia-network/api-react';
+import { toBech32m } from '@AppleOfEnlightenment/api';
+import { useGetBlockQuery, useGetBlockRecordQuery } from '@AppleOfEnlightenment/api-react';
 import {
   Back,
   Button,
@@ -14,7 +14,7 @@ import {
   useCurrencyCode,
   mojoToChia,
   Suspender,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { Alert, Paper, TableRow, Table, TableBody, TableCell, TableContainer } from '@mui/material';
 import moment from 'moment';

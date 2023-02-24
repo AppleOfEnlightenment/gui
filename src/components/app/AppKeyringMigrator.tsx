@@ -1,4 +1,4 @@
-import { useGetKeyringStatusQuery, useMigrateKeyringMutation } from '@chia-network/api-react';
+import { useGetKeyringStatusQuery, useMigrateKeyringMutation } from '@AppleOfEnlightenment/api-react';
 import {
   Button,
   AlertDialog,
@@ -6,7 +6,7 @@ import {
   useOpenDialog,
   useValidateChangePassphraseParams,
   Suspender,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { t, Trans } from '@lingui/macro';
 import {
   Help as HelpIcon,

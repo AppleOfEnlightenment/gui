@@ -1,4 +1,4 @@
-import { toBech32m, fromBech32m } from '@chia-network/api';
+import { toBech32m, fromBech32m } from '@AppleOfEnlightenment/api';
 
 function stripHexPrefix(hex: string) {
   if (hex.startsWith('0x') || hex.startsWith('0X')) {

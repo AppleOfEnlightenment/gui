@@ -1,6 +1,6 @@
-import { useRefreshPlotsMutation } from '@chia-network/api-react';
-import { Button, CardHero, Flex, Link, useOpenDialog } from '@chia-network/core';
-import { Plots } from '@chia-network/icons';
+import { useRefreshPlotsMutation } from '@AppleOfEnlightenment/api-react';
+import { Button, CardHero, Flex, Link, useOpenDialog } from '@AppleOfEnlightenment/core';
+import { Plots } from '@AppleOfEnlightenment/icons';
 import { Trans } from '@lingui/macro';
 import { Grid, Typography, Divider } from '@mui/material';
 import React from 'react';

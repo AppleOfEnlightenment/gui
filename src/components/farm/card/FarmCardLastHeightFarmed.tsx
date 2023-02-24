@@ -1,5 +1,5 @@
-import { useGetFarmedAmountQuery } from '@chia-network/api-react';
-import { FormatLargeNumber, CardSimple } from '@chia-network/core';
+import { useGetFarmedAmountQuery } from '@AppleOfEnlightenment/api-react';
+import { FormatLargeNumber, CardSimple } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import React from 'react';
 

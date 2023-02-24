@@ -1,6 +1,6 @@
-import type { Plot } from '@chia-network/api';
-import { useDeletePlotMutation } from '@chia-network/api-react';
-import { ConfirmDialog, More, MenuItem, useOpenDialog } from '@chia-network/core';
+import type { Plot } from '@AppleOfEnlightenment/api';
+import { useDeletePlotMutation } from '@AppleOfEnlightenment/api-react';
+import { ConfirmDialog, More, MenuItem, useOpenDialog } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { DeleteForever as DeleteForeverIcon } from '@mui/icons-material';
 import { ListItemIcon, Typography } from '@mui/material';

@@ -1,6 +1,6 @@
-import { NFTInfo } from '@chia-network/api';
-import type { Wallet } from '@chia-network/api';
-import { useGetDIDsQuery, useGetNFTWallets, useSetNFTDIDMutation, useLocalStorage } from '@chia-network/api-react';
+import { NFTInfo } from '@AppleOfEnlightenment/api';
+import type { Wallet } from '@AppleOfEnlightenment/api';
+import { useGetDIDsQuery, useGetNFTWallets, useSetNFTDIDMutation, useLocalStorage } from '@AppleOfEnlightenment/api-react';
 import {
   AlertDialog,
   Button,
@@ -15,7 +15,7 @@ import {
   truncateValue,
   useOpenDialog,
   useShowError,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { Trans, t } from '@lingui/macro';
 import { Box, Dialog, DialogActions, DialogContent, DialogContentText, DialogTitle, Typography } from '@mui/material';
 import React, { useMemo, useState } from 'react';

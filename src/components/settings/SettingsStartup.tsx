@@ -1,4 +1,4 @@
-import { Flex, SettingsLabel } from '@chia-network/core';
+import { Flex, SettingsLabel } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { FormGroup, FormControlLabel, Grid, Switch, Typography } from '@mui/material';
 import React from 'react';

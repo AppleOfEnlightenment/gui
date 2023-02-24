@@ -1,7 +1,7 @@
-import type { Connection } from '@chia-network/api';
-import { ServiceName } from '@chia-network/api';
-import { useGetFarmerFullNodeConnectionsQuery, useService } from '@chia-network/api-react';
-import { Table, Card, FormatBytes, FormatConnectionStatus } from '@chia-network/core';
+import type { Connection } from '@AppleOfEnlightenment/api';
+import { ServiceName } from '@AppleOfEnlightenment/api';
+import { useGetFarmerFullNodeConnectionsQuery, useService } from '@AppleOfEnlightenment/api-react';
+import { Table, Card, FormatBytes, FormatConnectionStatus } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { Delete as DeleteIcon } from '@mui/icons-material';
 import { Link, Typography, Tooltip, IconButton } from '@mui/material';

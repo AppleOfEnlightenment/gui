@@ -1,5 +1,5 @@
-import { useGetNFTInfoQuery } from '@chia-network/api-react';
-import { Flex, Loading, Tooltip } from '@chia-network/core';
+import { useGetNFTInfoQuery } from '@AppleOfEnlightenment/api-react';
+import { Flex, Loading, Tooltip } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { Grid, Typography, Card } from '@mui/material';
 import React from 'react';

@@ -1,12 +1,12 @@
-import { WalletType } from '@chia-network/api';
-import type { NFTInfo, Wallet } from '@chia-network/api';
+import { WalletType } from '@AppleOfEnlightenment/api';
+import type { NFTInfo, Wallet } from '@AppleOfEnlightenment/api';
 import {
   useCreateOfferForIdsMutation,
   useGetNFTInfoQuery,
   useGetNFTWallets,
   useGetWalletBalanceQuery,
   usePrefs,
-} from '@chia-network/api-react';
+} from '@AppleOfEnlightenment/api-react';
 import {
   Amount,
   AmountProps,
@@ -32,7 +32,7 @@ import {
   useLocale,
   useOpenDialog,
   useShowError,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { Trans, t } from '@lingui/macro';
 import { Warning as WarningIcon } from '@mui/icons-material';
 import { Box, Divider, Grid, Tabs, Tab, Typography, useTheme } from '@mui/material';

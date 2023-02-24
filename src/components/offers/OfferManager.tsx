@@ -1,5 +1,5 @@
-import { OfferTradeRecord } from '@chia-network/api';
-import { useCancelOfferMutation, useGetWalletsQuery } from '@chia-network/api-react';
+import { OfferTradeRecord } from '@AppleOfEnlightenment/api';
+import { useCancelOfferMutation, useGetWalletsQuery } from '@AppleOfEnlightenment/api-react';
 import {
   Button,
   ButtonLoading,
@@ -20,7 +20,7 @@ import {
   Tooltip,
   LayoutDashboardSub,
   MenuItem,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { Cancel, GetApp as Download, Info, Reply as Share, Visibility } from '@mui/icons-material';
 import {

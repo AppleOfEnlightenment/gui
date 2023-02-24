@@ -1,5 +1,5 @@
-import type { NFTInfo } from '@chia-network/api';
-import { useCurrencyCode } from '@chia-network/core';
+import type { NFTInfo } from '@AppleOfEnlightenment/api';
+import { useCurrencyCode } from '@AppleOfEnlightenment/core';
 
 import useOpenExternal from './useOpenExternal';
 

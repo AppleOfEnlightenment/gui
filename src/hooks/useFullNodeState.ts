@@ -1,4 +1,4 @@
-import { useGetBlockchainStateQuery } from '@chia-network/api-react';
+import { useGetBlockchainStateQuery } from '@AppleOfEnlightenment/api-react';
 
 import FullNodeState from '../constants/FullNodeState';
 

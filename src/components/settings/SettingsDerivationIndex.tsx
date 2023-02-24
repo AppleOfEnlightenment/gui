@@ -1,7 +1,7 @@
-import { SyncingStatus } from '@chia-network/api';
-import { useExtendDerivationIndexMutation, useGetCurrentDerivationIndexQuery } from '@chia-network/api-react';
-import { AlertDialog, ButtonLoading, Flex, Form, TextField, useOpenDialog } from '@chia-network/core';
-import { useWalletState } from '@chia-network/wallets';
+import { SyncingStatus } from '@AppleOfEnlightenment/api';
+import { useExtendDerivationIndexMutation, useGetCurrentDerivationIndexQuery } from '@AppleOfEnlightenment/api-react';
+import { AlertDialog, ButtonLoading, Flex, Form, TextField, useOpenDialog } from '@AppleOfEnlightenment/core';
+import { useWalletState } from '@AppleOfEnlightenment/wallets';
 import { Trans, t } from '@lingui/macro';
 import React, { useEffect } from 'react';
 import { useForm } from 'react-hook-form';

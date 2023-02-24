@@ -1,5 +1,5 @@
-import type NFTInfo from '@chia-network/api';
-import type LRU from '@chia-network/core';
+import type NFTInfo from '@AppleOfEnlightenment/api';
+import type LRU from '@AppleOfEnlightenment/core';
 import { useEffect, useState, useCallback } from 'react';
 
 import NFTContextualActionsEventEmitter from '../components/nfts/NFTContextualActionsEventEmitter';

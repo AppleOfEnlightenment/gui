@@ -1,5 +1,5 @@
-import { useGetFarmingInfoQuery } from '@chia-network/api-react';
-import { Link, Table, Card } from '@chia-network/core';
+import { useGetFarmingInfoQuery } from '@AppleOfEnlightenment/api-react';
+import { Link, Table, Card } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import moment from 'moment';
 import React from 'react';

@@ -1,4 +1,4 @@
-import { Flex, SideBarItem } from '@chia-network/core';
+import { Flex, SideBarItem } from '@AppleOfEnlightenment/core';
 import {
   Farming as FarmingIcon,
   FullNode as FullNodeIcon,
@@ -8,7 +8,7 @@ import {
   Offers as OffersIcon,
   Tokens as TokensIcon,
   Settings as SettingsIcon,
-} from '@chia-network/icons';
+} from '@AppleOfEnlightenment/icons';
 import { Trans } from '@lingui/macro';
 import { Box } from '@mui/material';
 import React from 'react';

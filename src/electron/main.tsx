@@ -16,7 +16,7 @@ import fs from 'fs';
 import path from 'path';
 import url from 'url';
 
-import { NFTInfo } from '@chia-network/api';
+import { NFTInfo } from '@AppleOfEnlightenment/api';
 import { initialize, enable } from '@electron/remote/main';
 import axios from 'axios';
 import chokidar from 'chokidar';

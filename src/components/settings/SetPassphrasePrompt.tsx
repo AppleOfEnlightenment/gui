@@ -1,4 +1,4 @@
-import { useGetKeyringStatusQuery, useSetKeyringPassphraseMutation } from '@chia-network/api-react';
+import { useGetKeyringStatusQuery, useSetKeyringPassphraseMutation } from '@AppleOfEnlightenment/api-react';
 import {
   AlertDialog,
   Button,
@@ -10,7 +10,7 @@ import {
   Form,
   TextField,
   Checkbox,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { t, Trans } from '@lingui/macro';
 import {
   Help as HelpIcon,

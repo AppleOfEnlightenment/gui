@@ -1,4 +1,4 @@
-import { useGetKeysQuery, useGetLoggedInFingerprintQuery } from '@chia-network/api-react';
+import { useGetKeysQuery, useGetLoggedInFingerprintQuery } from '@AppleOfEnlightenment/api-react';
 import {
   ButtonLoading,
   DialogActions,
@@ -9,7 +9,7 @@ import {
   Loading,
   useCurrencyCode,
   CardListItem,
-} from '@chia-network/core';
+} from '@AppleOfEnlightenment/core';
 import { Trans, t } from '@lingui/macro';
 import CloseIcon from '@mui/icons-material/Close';
 import { Box, Divider, Dialog, DialogContent, DialogTitle, IconButton, Typography, Checkbox } from '@mui/material';

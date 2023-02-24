@@ -1,5 +1,5 @@
-import type { Wallet } from '@chia-network/api';
-import { WalletType } from '@chia-network/api';
+import type { Wallet } from '@AppleOfEnlightenment/api';
+import { WalletType } from '@AppleOfEnlightenment/api';
 
 export default function findCATWalletByAssetId(wallets: Wallet[], assetId: string) {
   return wallets.find(

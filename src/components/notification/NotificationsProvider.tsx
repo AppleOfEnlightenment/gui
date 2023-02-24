@@ -1,12 +1,12 @@
-import { SyncingStatus } from '@chia-network/api';
+import { SyncingStatus } from '@AppleOfEnlightenment/api';
 import {
   useGetNotificationsQuery,
   usePrefs,
   useDeleteNotificationsMutation,
   useCurrentFingerprintSettings,
-} from '@chia-network/api-react';
-import { ConfirmDialog, useOpenDialog } from '@chia-network/core';
-import { useWalletState } from '@chia-network/wallets';
+} from '@AppleOfEnlightenment/api-react';
+import { ConfirmDialog, useOpenDialog } from '@AppleOfEnlightenment/core';
+import { useWalletState } from '@AppleOfEnlightenment/wallets';
 import { Trans } from '@lingui/macro';
 import debug from 'debug';
 import { orderBy } from 'lodash';

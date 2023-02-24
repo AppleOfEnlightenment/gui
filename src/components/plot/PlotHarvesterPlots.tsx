@@ -1,6 +1,6 @@
-import { type Plot } from '@chia-network/api';
-import { useGetHarvesterPlotsValidQuery, useGetHarvesterQuery } from '@chia-network/api-react';
-import { Address, TableControlled, Flex, FormatBytes, Tooltip, StateColor } from '@chia-network/core';
+import { type Plot } from '@AppleOfEnlightenment/api';
+import { useGetHarvesterPlotsValidQuery, useGetHarvesterQuery } from '@AppleOfEnlightenment/api-react';
+import { Address, TableControlled, Flex, FormatBytes, Tooltip, StateColor } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import { Warning as WarningIcon } from '@mui/icons-material';
 import { Box, Typography } from '@mui/material';

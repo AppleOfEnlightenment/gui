@@ -1,4 +1,4 @@
-import { mojoToCAT, mojoToChia } from '@chia-network/core';
+import { mojoToCAT, mojoToChia } from '@AppleOfEnlightenment/core';
 import BigNumber from 'bignumber.js';
 
 import type OfferBuilderData from '../@types/OfferBuilderData';

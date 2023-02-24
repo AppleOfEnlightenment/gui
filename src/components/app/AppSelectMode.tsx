@@ -1,5 +1,5 @@
-import { Button, Flex, Logo, Card, useMode, Mode } from '@chia-network/core';
-import { Farming as FarmingIcon } from '@chia-network/icons';
+import { Button, Flex, Logo, Card, useMode, Mode } from '@AppleOfEnlightenment/core';
+import { Farming as FarmingIcon } from '@AppleOfEnlightenment/icons';
 import { Trans } from '@lingui/macro';
 import {
   AccountBalanceWallet as AccountBalanceWalletIcon,

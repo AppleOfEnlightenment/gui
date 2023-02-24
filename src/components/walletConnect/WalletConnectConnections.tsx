@@ -1,4 +1,4 @@
-import { Flex, Loading, useOpenDialog, More, MenuItem, useShowError } from '@chia-network/core';
+import { Flex, Loading, useOpenDialog, More, MenuItem, useShowError } from '@AppleOfEnlightenment/core';
 import { Trans } from '@lingui/macro';
 import {
   CheckCircleTwoTone as CheckCircleTwoToneIcon,
